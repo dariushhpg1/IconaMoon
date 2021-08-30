@@ -17,7 +17,10 @@ Our entire libarary is designed in a 24px × 24px frame with 2px of padding. The
 We designed IconaMoon based on rectangles, circles and lines. That gave us a uniform structure for all icons and that’s just what we want in an icon set!
 
 ## Always free!
-IconaMoon is totally free and we have plans to release updates every season. More icons to come!
+IconaMoon is totally free and you can do what ever you want with it. Take a copy and make it your own. 
+
+## Stay tuned
+We have plans to release updates every season. More icons to come!
 
 ## Links:
 [Behance](https://www.behance.net/dariushhpg1) |
