@@ -11,7 +11,7 @@ IconaMoon includes 9 different categories. No matter you’re designing for an e
 Our icons are designed in 5 different styles. Choose yours and make the design pops!
 
 ## Pixel-Based Grid
-Our entire libarary is designed in a 24px × 24px frame with 2px of padding. They are sharp, catchy and ready to scale up to any sizes.
+Our entire library is designed in a 24px × 24px frame with 2px of padding. They are sharp, catchy and ready to scale up to any sizes.
 
 ## Shapes
 We designed IconaMoon based on rectangles, circles and lines. That gave us a uniform structure for all icons and that’s just what we want in an icon set!
