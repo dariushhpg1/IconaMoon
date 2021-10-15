@@ -1,4 +1,4 @@
-# IconaMoon v.1.1
+# IconaMoon 1.1
 
 +2400 icons, 8 styles, 9 Categories, for Free, Always!
 
