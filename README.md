@@ -1,6 +1,6 @@
 # IconaMoon v.1.1
 
-+2400 icons in 8 styles.
++2400 icons, 8 styles, 9 Categories, for Free, Always!
 
 ## 9 Categories
 
@@ -8,15 +8,23 @@ IconaMoon includes 9 different categories. No matter you’re designing for an e
 
 ## 8 Styles
 Our icons are designed in 8 different styles. Choose yours and make the design pops!
-
+- Thin
+- Light
+- Regular
+- Bold
+- Fill
+- Color
+- Duotone
+- Cute
+ 
 ## Pixel-Based Grid
-Our entire library is designed in a 24px × 24px frame with 2px of padding. They are sharp, catchy and ready to scale up to any sizes.
+Our entire library is designed in a 24px × 24px frame with 2px of padding. They are sharp, catchy and ready to scale up to any size.
 
 ## Shapes
 We designed IconaMoon based on rectangles, circles and lines. That gave us a uniform structure for all icons and that’s just what we want in an icon set!
 
 ## Always free!
-IconaMoon is totally free and you can do what ever you want with it. Take a copy and make it your own. 
+IconaMoon is totally free and you can do whatever you want with it. Take a copy and make it your own. 
 
 ## Stay tuned
 We have plans to release updates every season. More icons to come!
